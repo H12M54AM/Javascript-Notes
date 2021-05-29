@@ -9,4 +9,8 @@ function square(number) {
     return number*number;
 }
 
+answer = square(2); //part of the same 
+console.log(answer) //thing
+
 console.log(square(2));
+
