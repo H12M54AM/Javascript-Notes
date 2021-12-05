@@ -1,11 +1,13 @@
-### Tutorial-Notes
+### Javascript-Notes
 
 #### *Hey there! This is where I am learning Javascript then Typescript while write notes on the go*
 
 ###### Just to get started...
+###### Javascript
 ```javascript
     console.log("Hello World");
 ```
+###### Typescript
 ```typescript
     let message: string = "Hello World";
     
