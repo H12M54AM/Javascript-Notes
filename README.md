@@ -1,16 +1,22 @@
 ### Tutorial-Notes
 
-#### *Hey there! This is where I am learning Javascript and write notes on the go*
+#### *Hey there! This is where I am learning Javascript then Typescript while write notes on the go*
 
 ###### Just to get started...
 ```javascript
     console.log("Hello World");
+```
+```typescript
+    let message: string = "Hello World";
+    
+    console.log(message);
 ```
 #### The things I wish to get down is:
 * Full Javascript syntax
 * Object Oriented syntax
 * Api uses
 * Webapp of some kind
+    or
 * Website of some kind
 
 ![Javascript Logo](https://logos-download.com/wp-content/uploads/2019/01/JavaScript_Logo.png)
