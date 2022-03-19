@@ -9,8 +9,8 @@ function square(number) {
     return number*number;
 }
 
-answer = square(2); //part of the same 
-console.log(answer) //thing
+squareAnswer = square(2); //part of the same 
+console.log(squareAnswer) //thing
 
 console.log(square(2));
 
@@ -26,18 +26,13 @@ console.log("Before: " + JSON.stringify(myArr));
 console.log(nextInLine(myArr, 6));
 console.log("After: " + JSON.stringify(myArr));
 
+//-------------------------
 
 function userInputs() {
-    let answer = window.prompt("Whats your name?")
+    let answer = window.prompt("Whats your name? ")
     document.write("Cool. I'm " + answer + " too ");
-    return true;
-}
 
-function howOld() {
-    let age = window.prompt("How old are you?" + answer)
+    let age = window.prompt("How old are you? " + answer)
     document.write(" I'm also " + age + ", we must be twins!");
     return true;
 }
-
-console.log(userInputs());
-console.log(howOld());

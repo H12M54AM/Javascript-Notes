@@ -1,0 +1,14 @@
+* {
+    margin: 0;
+    box-sizing: border-box;
+    padding: 0;
+}
+
+.container {
+    margin: auto;
+
+}
+
+.container h1 {
+    text-align: center;
+}
